@@ -12,7 +12,7 @@ This project focuses on predicting the prices of used cars using machine learnin
 - [Modeling Techniques](#modeling-techniques)
 - [Model Evaluation](#model-evaluation)
 - [Results Summary](#results-summary)
-- 
+- [Contact information](#contact)
 
 ## Project Overview
 
@@ -56,9 +56,10 @@ The following feature engineering techniques were applied:
 
 We implemented various machine learning algorithms for car price prediction, including:
 - **Linear Regression**
+- **Polynomial Regressor**
 - **Random Forest Regressor**
 - **Decision Tree Regressor**
-- **XGBoost Regressor**
+- **Support Vector Regressor**
 
 ## Model Evaluation
 
@@ -72,3 +73,5 @@ Models were evaluated using:
 - The **Random Forest Regressor** showed the best performance with the lowest MAE and highest R².
 - Feature importance analysis revealed that mileage, engine size, and car age had the highest impact on price predictions.
 
+## Contact
+For any queries or suggestions, please contact Tanishq Mahajan at trmahajan28@gmail.com.
